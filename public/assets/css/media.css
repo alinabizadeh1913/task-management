@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+  #main .row .first {
+    margin-bottom: 150px !important;
+  }
+}
+@media (min-width: 768px) {
+  .container, .container-md, .container-sm {
+    max-width: 900px !important;
+  }
+}
